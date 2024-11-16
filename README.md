@@ -9,7 +9,7 @@ To run the project. import the project on your ide and make sure you change the 
 currently I was using MYSQL 8 and java 17 for this assessment exam.
 
 ### Notes:
-Make sure to create your database and added the database name in the application properties.
+Make sure to create your database and add the database name in the application properties.
 
 
 ### Usage
