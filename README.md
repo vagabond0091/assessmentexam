@@ -24,7 +24,7 @@ Make sure you take note of the task id for this initial creation of the task. It
 because that task id will be needed for the next creation of task with dependencies.
 
 I will add a createProjectAndTaskWithDependency json file in this project.
-modify the task id on the depency on that json file to avoid getting an error.
+modify the task id on the dependency on that json file to avoid getting an error.
 The usage of that file is same as the createProject json.
 
 
