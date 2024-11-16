@@ -1,0 +1,19 @@
+{
+  "projectId": 0,
+  "projectName": "project 1",
+  "task": [
+    {
+      "name": "task 1",
+      "duration": 5,
+      "dependencies": [
+      ]
+    },
+    {
+      "name": "task 1",
+      "duration": 5,
+      "dependencies": [
+	   
+      ]
+    }
+  ]
+}
