@@ -25,7 +25,7 @@ because that task id will be needed for the next creation of task with dependenc
 
 I will add a createProjectAndTaskWithDependency json file in this project.
 modify the task id on the depency on that json file to avoid getting an error.
-The usage of that file is same as the createProject json also.
+The usage of that file is same as the createProject json.
 
 
 
